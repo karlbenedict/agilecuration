@@ -22,9 +22,7 @@
 
 ##Proposed Workshop Location and Dates, Announcement, Workshop Family and Child Care Resources
 
-##Meeting Organization, How it will be Conducted, Recruitment of Speakers and Other Attendees including Underrepresented 
-Groups, Dissemination of Results, How the Meeting Will Contribute to the Enhancement and Improvement of Scientific 
-Activities
+##Meeting Organization, How it will be Conducted, Recruitment of Speakers and Other Attendees including Underrepresented Groups, Dissemination of Results, How the Meeting Will Contribute to the Enhancement and Improvement of Scientific Activities
 
 ###Workshop Agenda
 
