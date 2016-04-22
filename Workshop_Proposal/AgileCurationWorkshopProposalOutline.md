@@ -1,36 +1,36 @@
-DRAFT Proposal Outline for Agile Curation Workshop
+#DRAFT Proposal Outline for Agile Curation Workshop
 
-#Project Summary
+##Project Summary
 
-##Overview
+###Overview
 
-##Intellectual Merit
+###Intellectual Merit
 
-##Broader Impacts
+###Broader Impacts
 
-#Workshop Objectives and Outcomes
+##Workshop Objectives and Outcomes
 
-#Workshop Need and List of Topics
+##Workshop Need and List of Topics
 
-##Need
+###Need
 
-##Meeting Topics
+###Meeting Topics
 
-#A List of Recent Meetings on the Same Subject
+##A List of Recent Meetings on the Same Subject
 
-#The Names of the Chairperson and Members of Organizing Committees and their Organizational Affiliations
+##The Names of the Chairperson and Members of Organizing Committees and their Organizational Affiliations
 
-#Proposed Workshop Location and Dates, Announcement, Workshop Family and Child Care Resources
+##Proposed Workshop Location and Dates, Announcement, Workshop Family and Child Care Resources
 
-#Meeting Organization, How it will be Conducted, Recruitment of Speakers and Other Attendees including Underrepresented 
+##Meeting Organization, How it will be Conducted, Recruitment of Speakers and Other Attendees including Underrepresented 
 Groups, Dissemination of Results, How the Meeting Will Contribute to the Enhancement and Improvement of Scientific 
 Activities
 
-##Workshop Agenda
+###Workshop Agenda
 
-##Dissemination of Results, How the Meeting Will Contribute to the Enhancement and Improvement of Scientific Activities
+###Dissemination of Results, How the Meeting Will Contribute to the Enhancement and Improvement of Scientific Activities
 
 ___
 
 
-*References*
+#*References*
