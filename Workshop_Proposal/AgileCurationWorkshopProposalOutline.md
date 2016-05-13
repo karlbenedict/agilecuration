@@ -21,7 +21,8 @@ We believe the development and application of these concepts will have wide reac
 ###Intellectual Merit
 
 ###Broader Impacts
-
+**Need to address diversity in context of proposal**
+**Include grad student / education as part of the workshop**
 
 ##Workshop Objectives and Outcomes
 
@@ -30,7 +31,8 @@ We believe the development and application of these concepts will have wide reac
 2. Systematically identify commonly understood barriers to effective data curation, 
 3. Explore the application of agile software development concepts and their applicability to data management, 
 4. Identify research issues
-5. Community development
+5. Identify education / training issues and opportunities
+6. Community development
 
 ###Outcomes
 1. Refince agile curation conceptual framework
@@ -39,7 +41,7 @@ We believe the development and application of these concepts will have wide reac
 3. Workshop report
 4. Publication
 5. Ongoing community engagement [need to specify how...]
-6. Propose other next steps such as potential proposals, or additional work in other forums such as RDA or EsIP.
+6. Propose other next steps such as potential proposals, training workshops, or additional work in other forums such as RDA or EsIP.
 
 ##Workshop Need and List of Topics
 
@@ -53,6 +55,7 @@ We believe the development and application of these concepts will have wide reac
 * What can we learn from agile development practices
 * Refining the agile curation framework
 * Identifying case studies / Case study collection
+* Addressing education and training
 * Community building around this approach
 
 ##A List of Recent Meetings on the Same Subject
