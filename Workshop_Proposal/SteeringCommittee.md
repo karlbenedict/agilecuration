@@ -14,8 +14,8 @@
 * Someone from Data Carpentry
 * Someone from Software Carpentry
 * Someone from digital curation community
-* Someone from library community
-=======
+* Someone from the library community
+
 Proposed Steering Committee (SC) Members
 SC Members are PIs on the proposal
 * Karl
