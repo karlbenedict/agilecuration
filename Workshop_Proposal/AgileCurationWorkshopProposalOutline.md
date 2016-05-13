@@ -44,15 +44,16 @@ We believe the development and application of these concepts will have wide reac
 ##Workshop Need and List of Topics
 
 ###Need
-*Current curation is difficult to sustain. Threatens to be overwhelmed by increases in data volumes, complexities, sources.
-*These challenges negatively impact reusability, scientific productivity, increase curation costs, affect reproducibility
+* Current curation is difficult to sustain. Threatens to be overwhelmed by increases in data volumes, complexities, sources
+* Current data life cycle paradigm needs to be updated, doesn't reflect the way data is created, evolves, and is used
+* These challenges negatively impact reusability, scientific productivity, increase curation costs, affect reproducibility
 
 ###Meeting Topics
-*Why agile?
-*What can we learn from agile development practices
-*Refining the agile curation framework
-*Identifying case studies / Case study collection
-*Community building around this approach
+* Why agile?
+* What can we learn from agile development practices
+* Refining the agile curation framework
+* Identifying case studies / Case study collection
+* Community building around this approach
 
 ##A List of Recent Meetings on the Same Subject
 
