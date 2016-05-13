@@ -16,7 +16,7 @@
 * Someone from digital curation community
 * Someone from the library community
 
-Potential Funding Opportunities:
+##Potential Funding Opportunities:
 
 * [NSF](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505015&org=OISE&sel_org=OISE&from=fund)
 * [NASA ROSES](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498022/solicitationId=%7B5485187B-71B6-DF3D-FDE7-53DA38B14614%7D/viewSolicitationDocument=1/E.2%20TWSC.pdf)
