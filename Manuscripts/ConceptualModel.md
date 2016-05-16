@@ -1,5 +1,7 @@
 # A Conceptual Model for the Application of Software Development Agile Development Principles into Research Data Curation
 
+* Authors: Karl Benedict, Joshua Young, W. Christopher Lehnardt
+
 Target Journal: *International Journal of Digital Curation* - [http://www.ijdc.net/index.php/ijdc/index](http://www.ijdc.net/index.php/ijdc/index)
 
 ## Abstract
