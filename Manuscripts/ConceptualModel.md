@@ -15,6 +15,9 @@ The challenges and problems^[define - what are these?] with current research dat
 
 The objective of this paper is to propose^[link to a web site where community input can be collected and collated into something like the *Manifesto*] a set of *agile data curation* values and principles that parallel those developed by members of the software development community, but reflect the distinctive characteristics and challenges posed by the research data process and its products. 
 
+* Continuum from "Engineered" <==> "Agile" <==> "Ad-hoc"
+* Recognize cost of capture/creation, management, sharing and preservation and build prioritization into decision making about what products/parameters are maintained within the system. 
+
 
 
 *Background on **Agile Software Development** *
@@ -43,9 +46,9 @@ This set of principles emphasizes the importance of demonstrating value of devel
 
 *Solving different problems*
 
-* Agile software development principles came out of a reaction to the *over-engineering* of software projects in which there was an over-emphasys on documentation of requirements and strict development against those requirements over a long period of development, with little engagement with users and little flexibility once the process had started. This "waterfall" model produced many failed large-scale software development projects and the lightweight iterative process embodied in the values and principles of agile software development movement are a reaction to this approach. 
+* Agile software development principles came out of a reaction to the *over-engineering* of software projects in which there was an over-emphasys on documentation of requirements and strict development against those requirements over a long period of development, with little engagement with users and little flexibility once the process had started. This "waterfall" model produced many failed large-scale software development projects and the lightweight iterative process embodied in the values and principles of agile software development movement are a reaction to this approach. *Already had the engineering side, added agility*
 
-* Agile data curation is an attempt to bring explicit design principles into a process that has historically consisted of ad-hoc or tacitly defined practices *while learning the lessons from software engineering* about the value of user engagement, delivery of value, iteration, design quality, and flexibility. In short - the development and adoption of a set of agile data curation principles can bring *just enough* structure into a process that has previously been minimally structured. 
+* Agile data curation is an attempt to bring explicit design principles into a process that has historically consisted of ad-hoc or tacitly defined practices *while learning the lessons from software engineering* about the value of user engagement, delivery of value, iteration, design quality, and flexibility. In short - the development and adoption of a set of agile data curation principles can bring *just enough* structure into a process that has previously been minimally structured. *Already had agility, developing a higher degree of design/engineering*. 
 
 
 
