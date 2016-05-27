@@ -16,6 +16,14 @@ The challenges and problems^[define - what are these?] with current research dat
 The objective of this paper is to propose^[link to a web site where community input can be collected and collated into something like the *Manifesto*] a set of *agile data curation* values and principles that parallel those developed by members of the software development community, but reflect the distinctive characteristics and challenges posed by the research data process and its products. 
 
 * Continuum from "Engineered" <==> "Agile" <==> "Ad-hoc"
+	* Technical debt as another dimension for characterizing 
+	* Dimensions to think about:
+		* Required Formats
+		* Required data schemas
+		* Required file nameing conventions schemas
+		* Required metadata/documentation content
+		* Required metadata standards
+		* Approvals required
 * Recognize cost of capture/creation, management, sharing and preservation and build prioritization into decision making about what products/parameters are maintained within the system. 
 
 
