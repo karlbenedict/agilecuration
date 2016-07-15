@@ -1,0 +1,20 @@
+h2.author {
+	margin: 0 0 0 30px;
+	padding: 2px;
+	font: medium "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h3.date {
+	text-align: right;
+}
+
+section.slide.level3 h1 {
+	font-size: xx-large;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+p img {
+	height: 300px;
+	margin-left: 150px;
+}
