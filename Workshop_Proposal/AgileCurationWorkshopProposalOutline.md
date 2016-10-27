@@ -34,8 +34,8 @@ Bringing together a wide range of curation experts, data scientists, and data us
 5. Identify education / training issues and opportunities
 6. Community development
  
-* ####Key Concepts for Discussion
-* ####Key topics to be explored include [isn't this the same thing as key concepts?]
+    ####Key Concepts for Discussion
+    ####Key topics to be explored include [isn't this the same thing as key concepts?]
 
 ###Outcomes
 1. Refince agile curation conceptual framework
