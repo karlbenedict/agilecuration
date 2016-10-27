@@ -32,7 +32,9 @@ Bringing together a wide range of curation experts, data scientists, and data us
 3. Explore the application of agile software development concepts and their applicability to data management, 
 4. Identify research issues
 5. Identify education / training issues and opportunities
-6. Community development
+6. Community development  
+7. 
+  
 *Key Concepts for Discussion
 *Key topics to be explored include [isn't this the same thing as key concepts?]
 
